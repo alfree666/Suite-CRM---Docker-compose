@@ -1,16 +1,22 @@
 # suitecrm
+
 Suite CRM - Docker-compose
 
-Ver en "localhost:80"
+Ver en "localhost:8200"
 
 User: user
 
 Password: bitnami
 
-Instalar idioma español:
 
-https://crowdin.com/project/suitecrmtranslations/es-ES
+Para cambiar el idioma:
 
-Ir a: 
+Primero vamos a esta URL: https://crowdin.com/project/suitecrmtranslations/es-ES
 
-Admin/Admin Tools
+y descargamos en formato ZIP
+
+En esta otra URL: https://docs.suitecrm.com/admin/installation-guide/languages/install-a-new-language/
+
+nos explican como instalar un nuevo idioma.
+
+Ir a Admin/Admin Tools/Module LoaderAdmin/Admin Tools
